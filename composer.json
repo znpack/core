@@ -10,7 +10,23 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    
+    "zncore/app": "0.x-dev",
+    "zncore/arr": "0.x-dev",
+    "zncore/bundle": "0.x-dev",
+    "zncore/code": "0.x-dev",
+    "zncore/collection": "0.x-dev",
+    "zncore/config-manager": "0.x-dev",
+    "zncore/container": "0.x-dev",
+    "zncore/entity": "0.x-dev",
+    "zncore/enum": "0.x-dev",
+    "zncore/env": "0.x-dev",
+    "zncore/event-dispatcher": "0.x-dev",
+    "zncore/file-system": "0.x-dev",
+    "zncore/instance": "0.x-dev",
+    "zncore/pattern": "0.x-dev",
+    "zncore/query": "0.x-dev",
+    "zncore/text": "0.x-dev",
+    "zncore/validation": "0.x-dev"
   },
   "autoload": {
     "psr-4": {
