@@ -10,6 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
+    "zncore/contract": "0.x-dev",
     "zncore/app": "0.x-dev",
     "zncore/arr": "0.x-dev",
     "zncore/bundle": "0.x-dev",
