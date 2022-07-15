@@ -28,11 +28,5 @@
     "zncore/query": "0.x-dev",
     "zncore/text": "0.x-dev",
     "zncore/validation": "0.x-dev"
-  },
-  "autoload": {
-    "psr-4": {
-      "ZnPack\\Core\\": "src",
-      "ZnPack\\Core\\Tests\\": "tests"
-    }
   }
 }
